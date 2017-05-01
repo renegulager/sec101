@@ -1,0 +1,24 @@
+Try calculating a score at:
+https://nvd.nist.gov/vuln-metrics/cvss/v3-calculator
+
+
+
+With the following:
+
+
+Confidentiality Impact: 	
+Complete (There is total information disclosure, resulting in all system files being revealed.)
+
+Integrity Impact:
+ 	Complete (There is a total compromise of system integrity. There is a complete loss of system protection, resulting in the entire system being compromised.)
+Availability Impact:
+ 	Complete (There is a total shutdown of the affected resource. The attacker can render the resource completely unavailable.)
+Access Complexity:
+ 	Medium (The access conditions are somewhat specialized. Some preconditions must be satistified to exploit)
+Authentication:
+ 	Single system (The vulnerability requires an attacker to be logged into the system (such as at a command line or via a desktop session or web interface).)
+Gained Access :
+	None
+
+
+The result should be ~8+
