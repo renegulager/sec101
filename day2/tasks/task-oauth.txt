@@ -1,0 +1,5 @@
+Create a small program that authenticate agains google.com 
+
+Use the following guide:
+
+https://developers.google.com/+/web/samples/php

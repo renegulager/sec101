@@ -1,0 +1,24 @@
+Create a form with login and password ( login.html).
+Create login.php that handles the login
+
+Create registre.php that handles the creation of a use
+Create secret.php, this is the page that is password protectet.
+
+
+Flow:
+a user is trying to get a access to protected.php and gets an error
+
+The user creates a user at register.html that uses register.php to create a user
+- The username is saved to the db
+- The password is saved to the db
+
+The user then logins using login.html
+ - The password and username is validated agains the one saved in the datase.
+ - A session i created
+
+After the login the user is redirected to protected.php
+- protected.php checks if there is a valid session
+
+remember to hash passwords
+remember to validate input
+

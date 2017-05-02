@@ -1,0 +1,11 @@
+
+Try creating a small php program that takes a password and compare it to a hashed value, stored in a database or as an predefined var.
+
+Use password_hash() and password_verify() to create the program, try to echo the password_hash result and run your program a couple of times, the hashed result should change.
+
+
+Ask yourself why does the hash of the password that is getting hashed using password_hash change every time you run it?
+
+How is it possible to verify a pass word when the hash changes
+
+
