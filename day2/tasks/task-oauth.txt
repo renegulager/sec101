@@ -1,4 +1,4 @@
-Create a small program that authenticate agains google.com 
+Create a small program that authenticate against google.com 
 
 Use the following guide:
 
