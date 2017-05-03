@@ -1,7 +1,9 @@
 Create a form with login and password ( login.html).
 Create login.php that handles the login
 
-Create registre.php that handles the creation of a use
+Create a form with input fields to register a user's password and username
+
+Create register.php that handles the creation of a use
 Create secret.php, this is the page that is password protectet.
 
 
